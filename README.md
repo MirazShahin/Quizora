@@ -72,3 +72,9 @@ It enables companies to create and manage technical tests, invite candidates, ev
 ├── Quizora.Domain/
 ├── Quizora.Infrastructure/
 └── Quizora.Web/
+
+
+---
+Live Demo
+Web: https://quizora-web.onrender.com
+API (Swagger): https://quizora-api-o7gy.onrender.com/swagger
